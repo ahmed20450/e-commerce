@@ -1,0 +1,22 @@
+/* cart.component.css */
+.cart-info {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.cart-info img {
+  width: 80px;
+  height: auto;
+  margin-right: 20px;
+}
+
+.cart-info p {
+  margin: 0;
+}
+
+.cart-info small {
+  color: #888;
+}
+
+/* Ajoutez d'autres styles au besoin pour harmoniser le design */
